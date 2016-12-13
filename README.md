@@ -1,6 +1,6 @@
 # Guidelines for organizing Magento User Groups
 
-You (want to) organize MUGs? Cool! Thank you so much for putting the time and effort in to organzing these local Magento meetups and bringing the community together on regular basis. You are awesome!
+You (want to) organize MUGs? Cool! Thank you so much for putting in the time and effort to organzing these local Magento meetups and bringing the community together on regular basis. **You are awesome!**
 
 To allign ourselves, have a consistent image and make sure your MUG get's the attention it deserves, we do have some tips & guidelines for you. If you ahve any questions/remarks about these, please let us know or submit a change!
 
