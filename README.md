@@ -2,12 +2,12 @@
 
 You (want to) organize MUGs? Cool! Thank you so much for putting in the time and effort to organzing these local Magento meetups and bringing the community together on regular basis. **You are awesome!**
 
-To allign ourselves, have a consistent image and make sure your MUG get's the attention it deserves, we do have some tips & guidelines for you. If you ahve any questions/remarks about these, please let us know or submit a change!
+To allign ourselves, have a consistent image and make sure your MUG get's the attention it deserves, we do have some tips & guidelines for you. If you have any questions/remarks about these, please let us know or submit a change!
 
 ## How to start:
 - Request a Meetup.com group from Dutchento for your region (if non exists) or request access to an existing one.
 - Suggest/plan a new meeting with a topic and proposed date/location.
-- Let the people at Dutchento know so they can help you promote it.
+- Let the people at Dutchento know so they can help you promote it. We will also add you to our Slack discussion group for MUG organizers.
 
 ## What do we expect from you as an organizer:
 - Organize regular meetups. Once every 3 months is a good pace to start with.
