@@ -4,19 +4,19 @@ You (want to) organize MUGs? Cool! Thank you so much for putting in the time and
 
 To allign ourselves, have a consistent image and make sure your MUG get's the attention it deserves, we do have some tips & guidelines for you. If you ahve any questions/remarks about these, please let us know or submit a change!
 
-How to start:
+## How to start:
 - Request a Meetup.com group from Dutchento for your region (if non exists) or request access to an existing one.
 - Suggest/plan a new meeting with a topic and proposed date/location.
 - Let the people at Dutchento know so they can help you promote it.
 
-What do we expect from you as an organizer:
+## What do we expect from you as an organizer:
 - Organize regular meetups. Once every 3 months is a good pace to start with.
 - The meetups should be open to anyone that wants to join.
 - Coordinate dates, speakers, topics with surrounding MUG organizers.
 - If you are organizing this as a commercial company, some promotion in exchange for your effort is ok. But the meetup should still be open to visitors and speakers from your competitors. This is actually encouraged to promote the local community cohesion and collaboration.
 - We would like you to setup a pull-up banner from Dutchento. Request one in time and we will deliver them to you :).
 
-When following these guidelines, you can expect the following from Dutchento:
+## When following these guidelines, you can expect the following from Dutchento:
 - Promotion of your MUGs through our website and social channels.
 - Access to our network of speakers.
 - Sponsorship of meetups to pay for the costs of location and (some of the) drinks.
