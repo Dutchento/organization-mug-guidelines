@@ -22,3 +22,4 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 - Access to our network of the best speakers from other events.
 - Sponsorship of meetups to pay for the costs of location and (some of the) drinks.
 - When organizing 4 MUGs or more per year, you get 4 free tickets to our yearly Meet Magento event for you and you team!
+- Join our yearly MUG strategy meeting.
