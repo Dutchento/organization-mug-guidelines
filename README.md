@@ -20,6 +20,6 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 ## When following these guidelines, you can expect the following from Dutchento:
 - Promotion of your MUGs through our website and social channels.
 - Access to our network of the best speakers from other events.
-- Sponsorship of meetups to pay for the costs of location and (some of the) drinks.
+- You can join and (if needed) vote during our yearly MUG strategy meeting.
 - When organizing 4 MUGs or more per year, you get 4 free tickets to our yearly Meet Magento event for you and you team!
-- Join our yearly MUG strategy meeting.
+- Sponsorship of meetups to pay for the costs of location and (some of the) drinks.
