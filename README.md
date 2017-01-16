@@ -29,5 +29,4 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 ## Things to know for MUG organizers and others:
 - Local MUG organizer(s) are the fist point of contact for speakers and attendees.
 - MUG ideas/topics can be shared or rolated if agree upon the creator of ideas/topic (respect to others).
-- Misbehave at/of MUG's, participents or others can/will be reported to Dutchento.
 - Dutchento is not in the lead of the idea(s)/topic(s)/program, this is done by the MUG orginizer (But we are happy to help if needed).
