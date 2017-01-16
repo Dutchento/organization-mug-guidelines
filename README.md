@@ -2,6 +2,8 @@
 
 You (want to) organize MUGs? Cool! Thank you so much for putting in the time and effort to organize these local Magento meetups and bringing the community together on regular basis. **You are awesome!**
 
+We already have a general Code of conduct for our organization which can be found at https://github.com/Dutchento/organization-code-of-conduct. This document is an addition to that specificly for organizers of the MUGs.
+
 To align ourselves, have a consistent image and make sure your MUG gets the attention it deserves, we do have some tips & guidelines for you. If you have any questions/remarks about these, please let us know or submit a change!
 
 ## How to start:
