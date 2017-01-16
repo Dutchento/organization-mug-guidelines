@@ -24,9 +24,9 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 - When organizing 4 MUGs or more per year, you get 4 free tickets to our yearly Meet Magento event for you and you team!
 - Sponsorship of meetups to pay for the costs of location and (some of the) drinks.
 
-## Thinks to know for MUG organizers and others:
-- Local MUG organizer(s) are the fist point of contact.
+## Things to know for MUG organizers and others:
+- Local MUG organizer(s) are the fist point of contact for speakers and attendees.
 - Collaboration between MUG's is allowed.
 - MUG ideas/topics can be shared or rolated if agree upon the creator of ideas/topic (respect to others).
 - Misbehave at/of MUG's, participents or others can/will be reported to Dutchento.
-- Dutchento is not in control of the idea(s)/topic(s)/program, you are the MUG orginizer (But we can help if needed).
+- Dutchento is not in the lead of the idea(s)/topic(s)/program, this is done by the MUG orginizer (But we are happy to help if needed).
