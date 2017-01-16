@@ -20,6 +20,7 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 - We would like you to setup a pull-up banner from Dutchento. Request one in time and we will deliver them to you :).
 - Talk to potential speakers and refer them to the speakers form: https://goo.gl/forms/4uCHomUqP37z32iC3
 - Local MUG organizer(s) are the fist point of contact for speakers and attendees.
+
 ### Content/ Topics
 - Dutchento is not in the lead of the idea(s)/topic(s)/program, this is done by the MUG orginizer (But we are happy to help if needed).
 - Coordinate speakers and topics with surrounding MUG organizers.
