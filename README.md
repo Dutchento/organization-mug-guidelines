@@ -19,7 +19,7 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 - If you are organizing this as a commercial company, some promotion in exchange for your effort is ok. But the meetup should still be open to visitors and speakers from your competitors. This is encouraged in order to promote the local community cohesion and collaboration.
 - We would like you to setup a pull-up banner from Dutchento. Request one in time and we will deliver them to you :).
 - Talk to potential speakers and refer them to the speakers form: https://goo.gl/forms/4uCHomUqP37z32iC3
-- Local MUG organizer(s) are the fist point of contact for speakers and attendees.
+- Local MUG organizer(s) are the first point of contact for speakers and attendees.
 
 ### Content/ Topics
 - Dutchento is not in the lead of the idea(s)/topic(s)/program, this is done by the MUG organizer (But we are happy to help if needed).
