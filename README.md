@@ -9,7 +9,7 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 ## How to start:
 - Request a Meetup.com group from Dutchento for your region (if non exists) or request access to an existing one (Dutchento needs to be the owner of the group and will pay for all meetup.com fees).
 - Suggest/plan a new meeting with a topic and proposed date/location. The more concrete you can be, the better/faster it will be received.
-- Let the people at Dutchento know so they can help you promote it. We will also add you to our Slack discussion group for MUG organizers.
+- Let the people at Dutchento know so they can help you promote it. We will also add you to our (Slack discussion group)[https://dutchento.slack.com] for MUG organizers.
 
 ## What do we expect from you as an organizer:
 ### General organization
