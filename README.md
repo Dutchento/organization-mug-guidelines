@@ -1,6 +1,6 @@
 # Guidelines for organizing Magento User Groups
 
-You (want to) organize MUGs? Cool! Thank you so much for putting in the time and effort to organize these local Magento meetups and bringing the community together on regular basis. **You are awesome!**
+You want to organize MUG meetups? Cool! Thank you so much for putting in the time and effort to organize these local Magento meetups and bringing the community together on regular basis. **You are awesome!**
 
 We already have a general [Code of conduct](https://github.com/Dutchento/organization-code-of-conduct) for our community. This document is an addition to that specificly for organizers of the MUGs.
 
@@ -8,8 +8,8 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 
 ## How to start:
 - Request a Meetup.com group from Dutchento for your region (if non exists) or request access to an existing one (Dutchento needs to be the owner of the group and will pay for all meetup.com fees).
-- Suggest/plan a new meeting with a topic and proposed date/location. The more concrete you can be, the better/faster it will be received.
-- Let the people at Dutchento know so they can help you promote it. We will also add you to our Slack discussion group for MUG organizers.
+- Suggest/plan a new meeting with a topic plus proposed date and location. The more concrete you can be, the better and faster it will be received.
+- Let the people at Dutchento know so they can help you promote it. We will also add you to our [Slack](https://www.dutchento.org/slackers-gezocht/) discussion group for MUG organizers.
 
 ## What do we expect from you as an organizer:
 ### General organization
@@ -19,16 +19,16 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 - If you are organizing this as a commercial company, some promotion in exchange for your effort is ok. But the meetup should still be open to visitors and speakers from your competitors. This is encouraged in order to promote the local community cohesion and collaboration.
 - We would like you to setup a pull-up banner from Dutchento. Request one in time and we will deliver them to you :).
 - Talk to potential speakers and refer them to the speakers form: https://goo.gl/forms/4uCHomUqP37z32iC3
-- Local MUG organizer(s) are the first point of contact for speakers and attendees.
+- Local MUG organizers are the first point of contact for speakers and attendees.
 
 ### Content/ Topics
-- Dutchento is not in the lead of the idea(s)/topic(s)/program, this is done by the MUG organizer (But we are happy to help if needed).
+- Dutchento is not in the lead of the ideas, topics or the program of a MUG. It is all done by you as MUG organizer. However, we are happy to help out where needed.
 - Coordinate speakers and topics with surrounding MUG organizers.
-- MUG topics can of course be shared between MUGs if agreed upon the creator/speaker. If the speaker can't/won't travel to other MUGs, please coordinate with them if you can copy their presentation and under which conditions. Always be respectful to the original creator.
+- MUG topics can of course be shared between MUGs if agreed upon the creator and the speaker. If the speaker can't or won't travel to other MUGs, please coordinate with them if you can copy their presentation and under which conditions. Always be respectful to the original creator.
 
 ## When following these guidelines, you can expect the following from Dutchento:
-- Promotion of your MUG meetups through our website and social channels.
+- Promotion of your MUGs through our website and social channels.
 - Access to our network of the best speakers from other events.
 - You can join and (if needed) vote during our yearly MUG strategy meeting.
-- When organizing 4 MUGs or more per year, you get 4 free tickets to our yearly Meet Magento event for you and you team!
-- Optionally, sponsorship of MUG meetups to pay for the costs of location and (some of the) drinks.
+- When organizing 4 MUGs or more per year, you get 4 free tickets to our yearly (Meet Magento event)[http://www.meet-magento.nl/] for you and you team!
+- Sponsorship of meetups to pay for the costs of location and (some of the) drinks.
