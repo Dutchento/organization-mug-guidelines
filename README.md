@@ -7,8 +7,7 @@ We already have a general [Code of conduct](https://github.com/Dutchento/organiz
 To align ourselves, have a consistent image and make sure your MUG gets the attention it deserves, we do have some tips & guidelines for you. If you have any questions/remarks about these, please let us know or submit a change!
 
 ## How to start:
-- Request a Meetup.com group from Dutchento for your region (if non exists) or request access to an existing one (Dutchento needs to be the owner of the group and will pay for all meetup.com fees).
-- Suggest/plan a new meeting with a topic plus proposed date and location. The more concrete you can be, the better and faster it will be received.
+- Request access to one of the existing Meetup.com groups. Each region has one, and Dutchento pays all Meetup.com fees. You can quickly become one of the co-organizer of such a local group.
 - Let the people at Dutchento know so they can help you promote it. We will also add you to our [Slack](https://www.dutchento.org/slackers-gezocht/) discussion group for MUG organizers.
 
 ## What do we expect from you as an organizer:
