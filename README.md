@@ -31,7 +31,7 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 
 ### After the event
 - Use meetup.com to thank all the participants and ask them to contribute new topics/locations for new meetings
-- We highly recommend creating a blog (text or video) summary of the event and send that to info@dutchento.org for placement on our website. These articles can of course contain links to or images from the location hosts and/or sponsors of the event. We kindly ask you to not place this on other channels before it's placed on the Dutchento website.
+- We highly recommend creating a blog (text or video) summary of the event and send that to info@dutchento.org for placement on our website. These articles can of course contain links to or images from the location hosts and/or sponsors of the event. We kindly ask you to not place this content on other channels before it's placed on the Dutchento website.
 
 ## When following these guidelines, you can expect the following from Dutchento:
 - Promotion of your MUGs through our website and social channels.
