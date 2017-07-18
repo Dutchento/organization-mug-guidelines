@@ -16,7 +16,6 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 - The meetups should be open to anyone that wants to join.
 - Coordinate dates with surrounding MUG organizers.
 - If you are organizing this as a commercial company, some promotion in exchange for your effort is ok. But the meetup should still be open to visitors and speakers from your competitors. This is encouraged in order to promote the local community cohesion and collaboration.
-- We would like you to setup a pull-up banner from Dutchento. Request one in time and we will deliver them to you :).
 - Talk to potential speakers and refer them to the speakers form: https://goo.gl/forms/4uCHomUqP37z32iC3
 - Local MUG organizers are the first point of contact for speakers and attendees.
 
@@ -24,6 +23,15 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 - Dutchento is not in the lead of the ideas, topics or the program of a MUG. It is all done by you as MUG organizer. However, we are happy to help out where needed.
 - Coordinate speakers and topics with surrounding MUG organizers.
 - MUG topics can of course be shared between MUGs if agreed upon the creator and the speaker. If the speaker can't or won't travel to other MUGs, please coordinate with them if you can copy their presentation and under which conditions. Always be respectful to the original creator.
+
+### During the event
+- Say thanks to the location hosts and sponsors (when applicable).
+- We would like you to setup a pull-up banner from Dutchento. Request one in time and we will deliver them to you :).
+- try to get people to already submit ideas for new meetups (locations and topics).
+
+### After the event
+- Use meetup.com to thank all the participants and ask them to contribute new topics/locations for new meetings
+- We highly recommend creating a blog (text or video) summary of the event and send that to info@dutchento.org for placement on our website. These articles can of course contain links to or images from the location hosts and/or sponsors of the event. We kindly ask you to not place this on other channels before it's placed on the Dutchento website.
 
 ## When following these guidelines, you can expect the following from Dutchento:
 - Promotion of your MUGs through our website and social channels.
