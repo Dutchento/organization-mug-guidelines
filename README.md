@@ -24,6 +24,10 @@ To align ourselves, have a consistent image and make sure your MUG gets the atte
 - Coordinate speakers and topics with surrounding MUG organizers.
 - MUG topics can of course be shared between MUGs if agreed upon the creator and the speaker. If the speaker can't or won't travel to other MUGs, please coordinate with them if you can copy their presentation and under which conditions. Always be respectful to the original creator.
 
+### Announcing the event 
+- Add your event to the relevant meetup.com group. If you don't have the rights, please contact info@dutchento.org
+- In your text, be as clear as possible about your target audience to manage expectations. For example: You don't want merchants showing up unknowingly to very technical developer sessions.
+
 ### During the event
 - Say thanks to the location hosts and sponsors (when applicable).
 - We would like you to setup a pull-up banner from Dutchento. Request one in time and we will deliver them to you :).
